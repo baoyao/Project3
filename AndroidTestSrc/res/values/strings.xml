@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidTestSrc</string>
+    <string name="hello_world">要获取android系统中raw中文件的数据的时候 我目前遇到两种数据 一种数据是xml 这就是用到了sax进行xml的解析。另外就是直接读取raw文件夹中的txt文件</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
