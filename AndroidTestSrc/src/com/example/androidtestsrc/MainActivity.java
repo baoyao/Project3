@@ -42,8 +42,7 @@ import android.widget.ViewFlipper;
 public class MainActivity extends Activity implements
 		android.view.GestureDetector.OnGestureListener, SurfaceHolder.Callback {
 
-	private final String DIR_URL = Environment.getExternalStorageDirectory()
-			.toString() + "/ad_play";
+	private final String DIR_URL = "mnt/usb_storage/USB_DISK1/udisk0/ad_play";
 	private final String VIDEO_URL = DIR_URL + "/videos";
 	private final String IMAGE_URL = DIR_URL + "/images";
 	private final String TEXT_DIR = DIR_URL + "/text";
